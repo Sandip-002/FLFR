@@ -6,7 +6,7 @@
 A Line Follower Robot (LFR) is an autonomous robot designed to follow a predefined path, typically marked by a line, using sensor-based guidance and control systems. This LFR operates on a traditional PID control system using a static set of PID parameters. It employs an infrared (IR) sensor array as its main sensing component to track the line directly beneath the robot. Arduino Nano (ATmega328) acts as the main controller. This setup offers simplicity and an optimal balance between speed and accuracy, achieving speeds of up to 1.6 m/s. However, the static PID configuration limits adaptability, leading to occasional tracking errors on complex paths or sharp turns, as the parameters are not adjusted in real-time.
 
 ### Images
-![V1 Robot](images/20240310_102713.jpg)
+![V1 Robot](20240310_102713.jpg)
 ### Features
 
 | Feature            | Description                                      |
