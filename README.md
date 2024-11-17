@@ -36,7 +36,7 @@ In this version, a hybrid sensing system is introduced by integrating a camera m
 
 | Feature            | Description                                      |
 |--------------------|--------------------------------------------------|
-| Sensor type        | Infrared (IR) sensor array straight              |
+| Sensor type        | Infrared (IR) sensor array curved                |
 | Camera module      | OV7607                                           |
 | Motor type         | 180DC planetary gear (6:1) motor, 1300rpm        |
 | Motor Driver       | 2 x single channel BTS7960                       |
